@@ -326,6 +326,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   padding: 12px 34px;
+  font-family: inherit;
   font-size: 16px;
   line-height: 20px;
   font-weight: 700;
